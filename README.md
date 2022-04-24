@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Reehahs
-- 👀 I’m interested in backend development and QA testing.
-- 🌱 I’m currently learning Html/Css/Javascript to learn front-end development. 
+- 👋 Hi, I’m @Reehahs (Shaheer) not creative with that name I know. 
+- 👀 I’m interested in Web-Devolpment, Graphics, and just coding as a whole.
+- 🌱 I’m currently learning different WEB API technologies to better my self as a FULL STACK DEV!  
 - 💞️ I’m looking to collaborate on open source projects such as osu.ppy 
 - 📫 How to reach me? Reach me at my email shaheerkhan123p@gmail.com
 
