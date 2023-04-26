@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Reehahs (Shaheer), not creative with that name, I know. 
-- 👀 I’m interested in all the fields of computer science as soon to be Graduate!
-- 🌱 I’m currently learning PHP to develop into a better Web-Dev! 
--  I am great at React.js, Express.js, Node.js for FullStack Development, 
--  fork my social media app if you wanna see the MERN stack in progress ;)
+- 👀 I’m interested in many fields tech as soon to be computer science Graduate!
+- 🌱 System's Engineer, Cloud Computing, Data Engineering, and Machine Learning/ AI are my speciality. Python Enthusiast. 
 - 💞️ I’m looking to get experience helping provide immense value to a buisness!
 - 📫 How to reach me? Reach me at my email shaheerkhan123p@gmail.com
 
