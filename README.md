@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Reehahs (Shaheer), not creative with that name, I know. 
-- 👀 I’m interested in many fields tech as soon to be computer science Graduate!
-- 🌱 System's Engineer, Cloud Computing, Data Engineering, and Machine Learning/ AI are my speciality. Python Enthusiast. 
-- 💞️ I’m looking to get experience helping provide immense value to a buisness!
+- 👋 Hi, I’m @Reehahs (Shaheer). 
+- 👀 I’m a DevOps Engineer with a computer science degree. 
+- 🌱 Python Enthusiast. Ansible Expert. Linux Lover. 
+- 💞️ Interests? I Love cars, multiple sports, and various media. 
 - 📫 How to reach me? Reach me at my email shaheerkhan123p@gmail.com
 
 <!---
